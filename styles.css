@@ -1,0 +1,69 @@
+.home{
+    text-align: center;
+    color: black;
+
+
+}
+
+.recipe_name, .subheading{
+    font-family: 'Courier new';
+    background-color: black;
+    color: whitesmoke;
+    
+}
+
+.content{
+    font-family: 'Cambria math';
+    font-size: 1.2em;
+
+}
+.image{
+    margin: 0 auto ;
+    display: block;
+    padding: auto;
+    border: auto;
+    width: 300px;
+    height: auto;
+}
+.recipe_name{
+    padding: 18px;
+    margin: 8px auto;
+    width: 400px;
+    text-align: center;
+}
+.subheading{
+    padding: 18px;
+    /* width: 200px; */
+
+}
+.title{
+    color:black;
+    font-family:'Playfair Display', 'Times New Roman', Courier, monospace;
+    background-color: orange;
+    padding: 12px;
+    margin: auto;
+    margin-top: 24px;
+    margin-bottom: 24px;
+    width: 300px;
+    text-align: center;
+    
+}
+.container{
+    text-align: center;
+}
+.list{
+    display: inline-block;
+    
+}
+.link{
+    color: whitesmoke;
+}
+.recipe{
+    background-color: black;
+    
+    width: 200px;
+    height: 50px;
+    
+    padding-top: 20px;
+    margin: 12px auto;
+}
